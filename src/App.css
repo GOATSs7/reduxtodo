@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+/* Additional styles for the container if needed */
+h1 {
+  margin-bottom: 20px;
+}
